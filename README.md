@@ -15,12 +15,3 @@ For simplicity, let’s assume that:
 
 Customers can rent cars from any one of the following options—hourly, daily, or weekly rental.
 Customers are free to choose any number of cars they want, provided the number of available cars is more than the number of requested cars.
-
-
-
- 
-## Authors 
-- [@ameerahhelayel](https://github.com/ameerahhelayel)
-- [@ameerahali](https://github.com/ameerahali)
-- [@AlwaleedAlkhdairi](https://github.com/AlwaleedAlkhdairi/)
-- [@SafaAlmahdawi](https://github.com/SafaAlmahdawi)
